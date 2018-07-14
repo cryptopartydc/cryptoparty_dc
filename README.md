@@ -12,7 +12,7 @@ CryptoParty is a decentralized, global initiative to introduce basic cryptograph
 1. The leading member will share a topic related to best practices in digital security hygiene and engage the group in discussion.
 2. Structured time will be allotted to participants who wish to implement a presented concept on a personal device.
 
-This is a community-driven, community-owned learning group. We do not make money. We do not endorse products. We prefer the F/OSS solution, when it makes sense, over the commercially available.
+_This is a community-driven, community-owned learning group. We do not make money. We do not endorse products. We prefer the F/OSS solution, when it makes sense, over the commercially available._
 
 ### Topics Covered
 - 7/31/18: [Passwords, OTR, and TOR](https://github.com/csethna/cryptoparty_dc/blob/master/7_16_18.md)
