@@ -1,5 +1,5 @@
 # Code for DC: CryptoParty
-## A Learning Group for Security Conscious Civic Hackers
+## A Learning Group for Security-Conscious Civic Hackers
 ### Overview
 - A localization of the global security awareness movement known as [CryptoParty](https://cryptoparty.in).
 - A focussed learning group. On each project night, CryptoParty will be led by a member of Code for DC.
