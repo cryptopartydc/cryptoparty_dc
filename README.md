@@ -11,7 +11,7 @@ CryptoParty is a decentralized, global initiative to introduce basic cryptograph
 1. The leading member will share a topic related to best practices in digital security hygiene and engage the group in discussion.
 2. Structured time will be allotted to participants who wish to implement a presented concept on a personal device.
 ### Topics Covered
-- 7/16/18:
+- 7/31/18: [PGP, OTR, and TOR](https://github.com/csethna/cryptoparty_dc/blob/master/7_16_18.md)
 - 8/20/18:
 - 9/17/18:
 ### Tools
