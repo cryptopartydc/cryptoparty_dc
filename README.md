@@ -15,7 +15,7 @@ CryptoParty is a decentralized, global initiative to introduce basic cryptograph
 This is a community-driven, community-owned learning group. We do not make money. We do not endorse products. We prefer the F/OSS solution, when it makes sense, over the commercially available.
 
 ### Topics Covered
-- 7/31/18: [PGP, OTR, and TOR](https://github.com/csethna/cryptoparty_dc/blob/master/7_16_18.md)
+- 7/31/18: [Passwords, OTR, and TOR](https://github.com/csethna/cryptoparty_dc/blob/master/7_16_18.md)
 - 8/20/18: [Threat Modeling](https://github.com/csethna/cryptoparty_dc/blob/master/8_20_18.md)
 - 9/17/18:
 
