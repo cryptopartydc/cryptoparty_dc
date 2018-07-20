@@ -2,7 +2,8 @@
 ## A Learning Group for Security-Conscious Civic Hackers
 ### Overview
 - A localization of the global security awareness movement known as [CryptoParty](https://cryptoparty.in).
-- A focussed learning group. On each project night, CryptoParty will be led by a member of Code for DC.
+- A focussed learning group. On each project night, CryptoParty will be led by a member of [Code for DC](https://www.meetup.com/Code-for-DC/).
+- Please RSVP on Meetup if you plan on eating pizza. There is also a [Code of Conduct](https://codefordc.org/resources/codeofconduct.html), strictly enforced.
 
 An Excerpt from the [CryptoParty Handbook](http://mirror-de.cryptoparty.is/handbook/chapter_00_introducing_cryptoparty/chapter_00_introducing_cryptoparty.html#a-cryptoparty-history-party-like-its-1984):
 > Interested parties with computers, devices, and the willingness to learn how to use the most basic crypto programs and the fundamental concepts of their operation! CryptoParties are free to attend, public and commercially non-aligned.
