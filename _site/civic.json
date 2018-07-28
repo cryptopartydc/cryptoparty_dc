@@ -1,0 +1,38 @@
+{
+  "name": "CryptoParty DC",
+  "status": "Alpha",
+  "contact": {
+    "name": "Cyrus Sethna",
+    "email": "csethna@gmail.com",
+    "url": "https://github.com/csethna/cryptoparty_dc"
+  },
+  "partners": [
+    {
+      "name": "Code for DC",
+      "email": "csethna@gmail.com",
+      "url": "https://github.com/csethna/cryptoparty_dc"
+    }
+  ],
+  "description": "A Learning Group for Security-Conscious Civic Hackers",
+  "type": "learning",
+  "license": "n/a",
+  "homepage": "https://github.com/csethna/cryptoparty_dc",
+  "thumbnail": "https://github.com/csethna/cryptoparty_dc",
+  "repository": "https://github.com/csethna/cryptoparty_dc",
+  "geography": [
+    "dmv"
+  ],
+  "data": [
+    {
+      "name": "n/a",
+      "url": "n/a"
+    }
+  ],
+  "tags": [
+    "learning"
+  ],
+  "links": [
+    "https://cryptoparty.in"
+  ],
+  "id": "https://raw.githubusercontent.com/DCgov/civic.json/master/schemas/schema-v1.json"
+}
