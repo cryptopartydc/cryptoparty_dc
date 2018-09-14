@@ -1,16 +1,10 @@
 # Code for DC CryptoParty Agenda
-## August 20, 2018
-### OTR and TOR
+## September 17, 2018
 #### Intro
 **Bring your phone, tablet, computer, or pen/paper to follow along!**
 
 _Code for DC CryptoParty Ethos_
 > Privacy is a fundamental human right. It is recognized in many countries to be as central to individual human dignity and social values as Freedom of Association and Freedom of Speech. Privacy is where we draw the line on how far a society can intrude into our personal lives. It is user-defined and varies between individuals. You are the steward of your identity. You are the only person who has the right to disclose your personal story.
 
-#### Keybase
-[@edobrien](https://github.com/edeo) led a group session on setting up [Keybase](https://keybase.io).
-
-**Keybase** is a key directory that maps social media identities to encryption keys. Keybase also offers an end-to-end encrypted chat and file sharing system.
-
-#### Process
-1. 
+#### Threat Modeling
+[Assessing Your Risks](https://ssd.eff.org/en/module/assessing-your-risks) - _Electronic Frontier Foundation_
